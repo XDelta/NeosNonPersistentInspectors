@@ -1,6 +1,6 @@
 # NeosNonPersistentInspectors
 
-A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that will make spawned inspectors set to nonpersistent by default.
+A [NeosModLoader](https://github.com/zkxs/NeosModLoader) mod for [Neos VR](https://neos.com/) that will make inspectors spawned by you set to non-persistent by default.
 
 ## Installation
 1. Install [NeosModLoader](https://github.com/zkxs/NeosModLoader).
