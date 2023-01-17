@@ -10,7 +10,7 @@ namespace NeosNonPersistentInspectors {
 		public override string Link => "https://github.com/XDelta/NeosNonPersistentInspectors/";
 
 		public override void OnEngineInit() {
-			Harmony harmony = new Harmony("tk.deltawolf.NeosNonPersistentInspectors");
+			Harmony harmony = new Harmony("net.deltawolf.NeosNonPersistentInspectors");
 			harmony.PatchAll();
 			Msg("Inspectors NonPersistent'd!");
 		}
